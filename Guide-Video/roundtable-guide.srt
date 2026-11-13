@@ -1,0 +1,79 @@
+1
+00:00:00,300 --> 00:00:13,777
+Welcome to Roundtable. In this short guide, you'll learn how to create an account, start a meeting, and use video, screen sharing, chat, the whiteboard and file sharing on your phone.
+
+2
+00:00:14,377 --> 00:00:27,590
+When you open Roundtable, you'll see the login screen. If you already have an account, enter your email and password, then tap Log in. If you're new, tap Create an account.
+
+3
+00:00:30,437 --> 00:00:38,440
+Enter your name, your email address, and a password of at least eight characters. Then tap Sign up.
+
+4
+00:00:58,717 --> 00:01:06,116
+This is the home screen. To start a meeting, you can give it a name, then tap Create and open.
+
+5
+00:01:13,397 --> 00:01:26,505
+Before you join, check your microphone and camera. Tap the microphone to mute or unmute, and the camera button to turn your video on or off. When you're ready, tap Join meeting.
+
+6
+00:01:32,097 --> 00:01:45,320
+You're in the meeting. The number at the top shows how many people are here. To invite someone, tap Invite. This copies the meeting link, so you can paste it into any message.
+
+7
+00:01:46,647 --> 00:01:58,225
+Each person appears in their own tile. Here, Alex has joined from a web browser, and you can see their video. Your own tile is marked with the word, you.
+
+8
+00:01:59,487 --> 00:02:10,210
+The controls are at the bottom of the screen. Tap the microphone to mute yourself. A red button means you're muted. Tap it again to unmute.
+
+9
+00:02:13,347 --> 00:02:21,271
+The camera button turns your video on and off. While it's off, the others see your initial instead of your video.
+
+10
+00:02:22,487 --> 00:02:29,630
+When someone shares their screen, it fills the stage, and everyone's cameras move to the strip underneath.
+
+11
+00:02:30,867 --> 00:02:43,145
+You can share your own screen as well. Tap the screen share button, then let Android know you want to share your entire screen. Tap the button again whenever you want to stop sharing.
+
+12
+00:03:00,657 --> 00:03:13,640
+To chat, tap the chat button. Type your message and tap send. Replies appear here, and while the chat is closed, a badge on the chat button tells you about new messages.
+
+13
+00:03:29,527 --> 00:03:40,855
+Tap the pen button to open the shared whiteboard. Draw with your finger, and everyone sees it live. Choose a colour from the palette, and a line thickness on the right.
+
+14
+00:03:48,027 --> 00:03:57,960
+Use the eraser to rub things out. To add text, tap the T button, tap where the text should go, type it, and tap Add.
+
+15
+00:04:18,847 --> 00:04:29,555
+Drawings from other people appear instantly. To start over, tap Clear, then tap it again to confirm. This clears the board for everyone.
+
+16
+00:04:30,155 --> 00:04:39,413
+Tap the paperclip to see the files shared in this meeting. To share one of yours, tap Share a file, and choose it on your phone.
+
+17
+00:04:42,755 --> 00:04:52,653
+Your file is uploaded, and everyone in the meeting can download it. To get a file that someone else shared, tap the download button next to it.
+
+18
+00:04:53,253 --> 00:05:01,416
+You can turn your phone sideways at any time. The controls move to the side, giving video and the whiteboard more room.
+
+19
+00:05:05,813 --> 00:05:14,611
+When you're finished, tap the red button to leave the meeting. You'll return to the home screen, where your recent meetings are listed.
+
+20
+00:05:18,603 --> 00:05:26,971
+To sign out, tap Log out at the top of the home screen. That's it. You're ready to meet on Roundtable.

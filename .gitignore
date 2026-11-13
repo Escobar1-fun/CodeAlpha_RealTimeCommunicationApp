@@ -1,0 +1,13 @@
+node_modules/
+dist/
+
+# Secrets and local TLS material
+.env
+certs/
+
+# Runtime data
+server/data/
+server/uploads/
+
+*.log
+.DS_Store
